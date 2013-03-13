@@ -19,4 +19,5 @@ Instalacion
 Nota importante
 ===============
 
-para que el cliente funcione es necesario validar el client/js/defs.js para actualizar la direccion del server donde se está probando.
+para que el cliente funcione es necesario validar el client/js/defs.js para actualizar la direccion del server donde se está probando al igual que
+address.js
